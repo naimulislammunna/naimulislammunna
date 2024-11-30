@@ -1,3 +1,4 @@
+<img src="https://i.postimg.cc/QdSD64xj/Black-and-White-Gradient-Personal-Linked-In-Banner-2.png"></img>
 <h1 align="center">Hi 👋, I'm Munna</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 
